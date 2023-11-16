@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/andrew-pizza/static/css/main.6b7a96fd.css",
+    "main.js": "/andrew-pizza/static/js/main.f107044a.js",
+    "static/js/787.3d8600d3.chunk.js": "/andrew-pizza/static/js/787.3d8600d3.chunk.js",
+    "static/media/anh_mon_4.jpg": "/andrew-pizza/static/media/anh_mon_4.41f2020163722c61abf9.jpg",
+    "static/media/pizza_type_hawai.jpg": "/andrew-pizza/static/media/pizza_type_hawai.c4ba365acb682981f5e2.jpg",
+    "static/media/anh_mon_2.jpg": "/andrew-pizza/static/media/anh_mon_2.81254066dc8ad7f89cba.jpg",
+    "static/media/anh_mon_3.jpg": "/andrew-pizza/static/media/anh_mon_3.3b81c91d4b92d9844436.jpg",
+    "static/media/anh_mon_1.jpg": "/andrew-pizza/static/media/anh_mon_1.87a4952183d9e62a6f3d.jpg",
+    "static/media/pizza_type_hai_san.jpg": "/andrew-pizza/static/media/pizza_type_hai_san.c9c03df53607bbda6b10.jpg",
+    "static/media/pizza_type_thit_nuong.jpg": "/andrew-pizza/static/media/pizza_type_thit_nuong.325f6c71539307ba3c88.jpg",
+    "static/media/anh_mon_5.jpg": "/andrew-pizza/static/media/anh_mon_5.56a2224ace3972121de4.jpg",
+    "index.html": "/andrew-pizza/index.html",
+    "main.6b7a96fd.css.map": "/andrew-pizza/static/css/main.6b7a96fd.css.map",
+    "main.f107044a.js.map": "/andrew-pizza/static/js/main.f107044a.js.map",
+    "787.3d8600d3.chunk.js.map": "/andrew-pizza/static/js/787.3d8600d3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b7a96fd.css",
+    "static/js/main.f107044a.js"
+  ]
+}
